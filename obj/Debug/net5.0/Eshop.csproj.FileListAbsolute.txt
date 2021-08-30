@@ -1,0 +1,15 @@
+/Users/aleksas/Projects/Eshop/bin/Debug/net5.0/Eshop.deps.json
+/Users/aleksas/Projects/Eshop/bin/Debug/net5.0/Eshop.runtimeconfig.json
+/Users/aleksas/Projects/Eshop/bin/Debug/net5.0/Eshop.runtimeconfig.dev.json
+/Users/aleksas/Projects/Eshop/bin/Debug/net5.0/Eshop.dll
+/Users/aleksas/Projects/Eshop/bin/Debug/net5.0/ref/Eshop.dll
+/Users/aleksas/Projects/Eshop/bin/Debug/net5.0/Eshop.pdb
+/Users/aleksas/Projects/Eshop/obj/Debug/net5.0/Eshop.csproj.AssemblyReference.cache
+/Users/aleksas/Projects/Eshop/obj/Debug/net5.0/Eshop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksas/Projects/Eshop/obj/Debug/net5.0/Eshop.AssemblyInfoInputs.cache
+/Users/aleksas/Projects/Eshop/obj/Debug/net5.0/Eshop.AssemblyInfo.cs
+/Users/aleksas/Projects/Eshop/obj/Debug/net5.0/Eshop.csproj.CoreCompileInputs.cache
+/Users/aleksas/Projects/Eshop/obj/Debug/net5.0/Eshop.dll
+/Users/aleksas/Projects/Eshop/obj/Debug/net5.0/ref/Eshop.dll
+/Users/aleksas/Projects/Eshop/obj/Debug/net5.0/Eshop.pdb
+/Users/aleksas/Projects/Eshop/obj/Debug/net5.0/Eshop.genruntimeconfig.cache
